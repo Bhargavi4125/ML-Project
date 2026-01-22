@@ -61,10 +61,12 @@ Customer-Segmentation-Using-KMeans/
 
 ## ▶️ How to Run the Project
 
-1. Clone the repository:
-```bash
 1. Clone the repository:  
-[https://github.com/Bhargavi4125/ML-Project.git](https://github.com/Bhargavi4125/ML-Project.git)
+[git clone https://github.com/Bhargavi4125/ML-Project.git](https://github.com/Bhargavi4125/ML-Project.git)
+
+2. Navigate to the project directory:
+```bash
+cd ML-Project
 
 
 
