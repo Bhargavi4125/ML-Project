@@ -69,6 +69,7 @@ Customer-Segmentation-Using-KMeans/
 cd ML-Project
 
 Open and run the notebook:
+```bash
 📓 Customer_Segmentation_using_K_Means_Clustering.ipynb
 
 📊 Results
