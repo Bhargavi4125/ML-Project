@@ -64,12 +64,13 @@ Customer-Segmentation-Using-KMeans/
 ```bash
 git clone https://github.com/Bhargavi4125/ML-Project.git
 
+
 2. Navigate to the project directory:
 
 cd ML-Project
 
 3. Open and run the notebook:
-
+```bash
 Customer_Segmentation_using_K_Means_Clustering.ipynb
 
 📊 Results
