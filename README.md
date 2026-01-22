@@ -13,7 +13,7 @@ To group customers into different segments based on their purchasing behavior us
 
 ## 🛠️ Technologies Used
 - Python
-- Jupyter Notebook
+- Google Colab
 - NumPy
 - Pandas
 - Matplotlib
@@ -67,9 +67,10 @@ Customer-Segmentation-Using-KMeans/
 2. **Navigate to the project directory:**  
 cd ML-Project
 
-Open and run the notebook:
+Open and run the colab notebook:
 ```bash
-📓 [Customer Segmentation using K-Means Clustering](Customer_Segmentation_using_K_Means_Clustering.ipynb)
+[Customer Segmentation using K-Means Clustering](https://github.com/Bhargavi4125/ML-Project/blob/master/Customer_Segmentation_using_K_Means_Clustering.ipynb)
+
 
 
 📊 Results
